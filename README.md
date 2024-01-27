@@ -16,7 +16,7 @@
       - Inverse
 
 
-## Download For Windows: [Link](https://github.com/migmig69/market-mimic/releases/tag/v0.1.0)
+## Download For Windows: [Link](https://github.com/thethuz/ez-backtest-crypto/releases/tag/v0.0.1)
 ---
 ## Install 
 I use Nodejs Version: 20.11.0 (includes npm 10.2.4)
